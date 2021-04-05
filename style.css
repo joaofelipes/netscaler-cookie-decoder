@@ -1,0 +1,84 @@
+.bDiv {
+	display: block;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	float: none;
+	z-index: auto;
+	width: auto;
+	height: auto;
+	position: static;
+	cursor: pointer;
+	opacity: 1;
+	margin: 0.5em;
+	padding: 0 1.5em;
+	overflow: visible;
+	border: 1px solid rgba(211,211,211,1);
+	-webkit-border-radius: 0.2em;
+	border-radius: 0.2em;
+	font: normal normal bold 1em/2em Arial, Helvetica, sans-serif;
+	color: rgba(114,114,114,1);
+	-o-text-overflow: clip;
+	text-overflow: clip;
+	white-space: nowrap;
+	background: rgba(234,234,234,1);
+	-webkit-box-shadow: 0 0 1px 1px rgba(255,255,255,0.8) , 0 1px 0 0 rgba(0,0,0,0.298039) ;
+	box-shadow: 0 0 1px 1px rgba(255,255,255,0.8) , 0 1px 0 0 rgba(0,0,0,0.298039) ;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.8) ;
+	-webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1) 10ms;
+	-moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1) 10ms;
+	-o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1) 10ms;
+	transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1) 10ms;
+	-webkit-transform: none;
+	transform: none;
+	-webkit-transform-origin: 50% 50% 0;
+	transform-origin: 50% 50% 0;
+}
+.bDiv:hover {
+  cursor: pointer;
+  border: 1px solid rgba(178,178,178,1);
+  color: rgba(76,76,76,1);
+  -webkit-box-shadow: 0 0 1px 1px rgba(255,255,255,0.8) inset, 0 1px 0 0 rgba(0,0,0,0.298039) ;
+  box-shadow: 0 0 1px 1px rgba(255,255,255,0.8) inset, 0 1px 0 0 rgba(0,0,0,0.298039) ;
+}
+
+.bDiv:active {
+	position: relative;
+	top: 2px;
+}
+
+.title {
+	display: block;
+	text-align: center;
+	padding-bottom: 1px;
+	text-decoration: none;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	font: 10px/100% Verdana;
+	padding: 0.5em 2em .55em;
+	background-color: antiquewhite;
+	-moz-border-radius: .5em;
+	border-radius: 0.5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	margin-bottom: 12px;
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+;
+}
+.awnser {
+	display: table-cell;
+	text-align: center;
+	font: 13px/100% Verdana;
+	vertical-align: middle;
+	background: #d4cadf;
+	width: 300px;
+	height: 125px;
+	-webkit-box-shadow: 0 2px 4px rgba(0,0,0,.2);
+}
+.vipdiv {
+    display: flow-root;
+    text-align: center;
+    vertical-align: middle;
+    width: 300px;
+    color: white;
+	font: bold normal 1em/2em Arial, Helvetica, sans-serif;
+}
