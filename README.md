@@ -9,8 +9,13 @@ This chrome extension reverse the Netscaler algorithm used to encode the data, a
 
 ### Screenshot
 <p align=center>
-<img src="images/screenshot.png" width=75%>
-<br/><em>(Toggle Test File)</em></p>
+<img src="images/s-shot1.png" width=75%>
+<br>
+
+<img src="images/s-shot2png" width=75%>
+
+<br>
+<br/><em>(to my love @tamiresdias)</em></p>
 
 [link1]: <https://github.com/catalyst256/Netscaler-Cookie-Decryptor>
 [link2]: <https://github.com/joaofelipes/netscaler-cookie-decoder>
