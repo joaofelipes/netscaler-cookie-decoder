@@ -17,6 +17,8 @@ This chrome extension reverse the Netscaler algorithm used to encode the data, a
 <br>
 <br/><em>(to my love @tamiresdias)</em></p>
 
+<a href="https://www.buymeacoffee.com/joaofelipes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 [link1]: <https://github.com/catalyst256/Netscaler-Cookie-Decryptor>
 [link2]: <https://github.com/joaofelipes/netscaler-cookie-decoder>
  [catalyst256link]: <https://github.com/catalyst256/Netscaler-Cookie-Decryptor/commits?author=catalyst256>
